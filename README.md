@@ -453,3 +453,9 @@ makes this project a complete end-to-end BI solution suitable for:
 * internship portfolios
 * placement showcases
 * professional demonstrations
+
+# 📸 Dashboard Preview
+
+An interactive Power BI dashboard developed to analyze global socio-economic indicators, population trends, economic growth, health statistics, and regional development insights through advanced visualizations and business intelligence reporting.
+
+<img width="1000" alt="Global Socio Economic Analysis Dashboard" src="https://github.com/Anjali2718/Global_Socio_Economic_Analysis_Dashboard/raw/main/Global_Socio_Economic_Analysis_ss.png">
